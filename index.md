@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to [wofl]
+
+This is a personal project - so nothing to be seen here yet.
+
+```
+[wofl] == anagramm for flow
+[wofl] == abbreviation for worflow
+```
+
 
 You can use the [editor on GitHub](https://github.com/woflio/www/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
